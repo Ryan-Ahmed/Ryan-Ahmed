@@ -1,6 +1,6 @@
 ![2d9e72dcea656979520348484e1a3699](https://user-images.githubusercontent.com/99035760/222182307-0c1582a5-a5a5-40a4-84d2-4ee5429fb527.gif)
    # 💫 About Me:
-👨🏿‍💻Passionate about programming<br>🧩Learning programming to solve real world problem
+👨🏿‍💻Passionate about System<br>🧩Learning System to upgrade the real world system
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=black)]( https://www.facebook.com/iiamryanahmed )
